@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/moataz-elzuhery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="moataz-elzuhery" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/moataz-el-zuhery-64727722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moataz-el-zuhery-64727722a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24332540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24332540" height="30" width="40" /></a>
-<a href="https://codesandbox.com/moataz-elzuhery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="moataz-elzuhery" height="30" width="40" /></a>
-<a href="https://fb.com/100015560418507&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100015560418507&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100015560418507&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100015560418507&mibextid=zbwkwl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
