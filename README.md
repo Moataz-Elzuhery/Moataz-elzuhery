@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moataz Elzuhery</h1>
 <h3 align="center">A passionate Software engineer from Egypt</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moataz-elzuhery&label=Profile%20views&color=0e75b6&style=flat" alt="moataz-elzuhery" /> </p>
 
