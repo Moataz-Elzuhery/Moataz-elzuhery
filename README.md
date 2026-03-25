@@ -1,54 +1,46 @@
 <h1 align="center">Hi 👋, I'm Moataz Elzuhery</h1>
-<h3 align="center">AI Engineer | Computer Vision & Generative AI</h3>
+<h3 align="center">AI Engineer | Computer Vision | Machine Learning</h3>
 
 <p align="center">
-I build intelligent systems using AI, Computer Vision, and LLMs to solve real-world problems.
-</p>
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+I build real-world AI systems using Computer Vision and Deep Learning.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 AI Engineer specializing in **Computer Vision & Generative AI**
-- 🧠 Strong foundation in **Machine Learning & Deep Learning**
-- 🔍 Experienced in building **AI-powered applications & pipelines**
-- ⚙️ Backend development using **FastAPI & Flask**
-- 📦 Interested in **MLOps & model deployment**
-- 🚀 Currently working on improving **real-world AI systems**
-
----
-
-## 🏗️ Featured Projects
-
-### 🧠 AI Vision Project (Graduation Project)
-Deep learning-based system for solving real-world problems using Computer Vision.
-
-🔗 Project Link  
-https://github.com/YOUR_USERNAME/YOUR_PROJECT
-
----
-
-### 🤖 AI Assistant (RAG System)
-LLM-based assistant using Retrieval-Augmented Generation for intelligent responses.
-
-🔗 Project Link  
-https://github.com/YOUR_USERNAME/YOUR_PROJECT
+- 🎓 Graduate with strong interest in **Artificial Intelligence**
+- 👁️ Focused on **Computer Vision & Deep Learning**
+- 🧠 Good understanding of **ML fundamentals (math + models)**
+- ⚙️ Experience with **Python, OpenCV, TensorFlow/PyTorch**
+- 🚀 Currently building real-world projects to strengthen my skills
 
 ---
 
 ## 🧠 Tech Stack
 
-<p align="center">
+- **Languages:** Python  
+- **AI/ML:** TensorFlow, PyTorch, OpenCV  
+- **Backend:** FastAPI  
+- **Tools:** Git, Docker, Linux  
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,mysql,sqlite,linux,git,github,docker,firebase"/>
+---
 
-</p>
+## 🏗️ Featured Projects
+
+### 🧠 Graduation Project (Computer Vision)
+- Built a deep learning model for real-world problem solving  
+- Used CNNs & image processing  
+
+🔗 [Project Link](PUT_YOUR_PROJECT)
+
+---
+
+### 🤖 AI Project
+- Applied Machine Learning / Deep Learning  
+- Focused on practical implementation  
+
+🔗 [Project Link](PUT_YOUR_PROJECT)
 
 ---
 
@@ -56,9 +48,9 @@ https://github.com/YOUR_USERNAME/YOUR_PROJECT
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elzuhery&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elzuhery&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -66,27 +58,19 @@ https://github.com/YOUR_USERNAME/YOUR_PROJECT
 
 ## 🎯 Current Focus
 
-- 📌 Building strong projects in **Computer Vision**
-- 📌 Learning **Advanced Deep Learning & Transformers**
-- 📌 Improving **problem-solving & system design**
-
----
-
-## 📄 Resume
-
-📥 Download CV  
-YOUR_CV_LINK
+- 📌 Mastering **Computer Vision**
+- 📌 Improving **Deep Learning understanding**
+- 📌 Building strong portfolio projects
 
 ---
 
 ## 📫 Contact
 
-📧 Email: YOUR_EMAIL  
-💼 LinkedIn: YOUR_LINK  
-💻 GitHub: YOUR_USERNAME  
+- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: YOUR_LINK  
 
 ---
 
 <p align="center">
-🔥 Passionate about building impactful AI solutions
+🔥 Future AI Engineer in progress
 </p>
