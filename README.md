@@ -67,7 +67,7 @@ I build real-world AI systems using Computer Vision and Deep Learning.
 ## 📫 Contact
 
 - 📧 Email: moataz.elzuhery@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/moataz-elzuhery 
+- 💼 LinkedIn: https://www.linkedin.com/in/moataz-elzuhery-251b8438b 
 
 ---
 
