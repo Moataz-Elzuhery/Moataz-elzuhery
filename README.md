@@ -19,10 +19,11 @@ I build real-world AI systems using Computer Vision and Deep Learning.
 
 ## 🧠 Tech Stack
 
-- **Languages:** Python  
-- **AI/ML:** TensorFlow, PyTorch, OpenCV  
-- **Backend:** FastAPI  
-- **Tools:** Git, Docker, Linux  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,mysql,sqlite,linux,git,github,firebase,docker,figma,flutter,arduino"/>
+
+</p>
 
 ---
 
