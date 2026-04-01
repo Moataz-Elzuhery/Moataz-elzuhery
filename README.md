@@ -48,11 +48,11 @@ I build real-world AI systems using Computer Vision and Deep Learning.
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elzuhery&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,mysql,sqlite,linux,git,github,firebase,docker,figma,flutter,arduino"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elzuhery&layout=compact&theme=tokyonight"/>
 
 </p>
 
