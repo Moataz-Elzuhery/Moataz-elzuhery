@@ -45,39 +45,10 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
 ---
 ## 🧠 Tech Stack
 
-### 🤖 AI / Machine Learning
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
-</p>
-
-### 💻 Programming
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,git,github,docker,linux,anaconda,mysql,sqlite,flutter,figma" />
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux"/>
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-</p>
-
-### 🧠 Data & Analysis
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
-
-### 🎨 Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,figma"/>
-</p>
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github,linux"/>
-</p>
 
 ---
 
