@@ -46,9 +46,9 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
 ## 🧠 Tech Stack
 
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,git,github,docker,linux,anaconda,mysql,sqlite,flutter,figma" />
-<p>
+</p>
 
 ---
 
