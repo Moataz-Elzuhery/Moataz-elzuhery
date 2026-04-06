@@ -1,78 +1,80 @@
 <h1 align="center">Hi 👋, I'm Moataz Elzuhery</h1>
-<h3 align="center">AI Engineer | Computer Vision | Machine Learning</h3>
+<h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning</h3>
 
 <p align="center">
-I build real-world AI systems using Computer Vision and Deep Learning.
+Building real-world AI systems using Computer Vision, Deep Learning, and Machine Learning.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Graduate with strong interest in **Artificial Intelligence**
-- 👁️ Focused on **Computer Vision & Deep Learning**
-- 🧠 Good understanding of **ML fundamentals (math + models)**
-- ⚙️ Experience with **Python, OpenCV, TensorFlow/PyTorch**
-- 🚀 Currently building real-world projects to strengthen my skills
+- 🎓 Computer Science Graduate
+- 👁️ Specialized in **Computer Vision & Deep Learning**
+- 🧠 Built real-world AI projects (Face Recognition, CNN Classifier, ML Apps)
+- ⚙️ Experienced in **Python, TensorFlow, OpenCV, scikit-learn**
+- 🚀 Focused on building practical AI solutions
 
 ---
 
 ## 🧠 Tech Stack
 
-- Languages: Python
-- AI/ML: TensorFlow, PyTorch, OpenCV
-- Backend: FastAPI
-- Tools: Git, Docker, Linux
-
-</p>
+- **Languages:** Python  
+- **AI/ML:** TensorFlow, OpenCV, scikit-learn  
+- **Tools:** Git, GitHub, Streamlit, Jupyter  
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🧠 Graduation Project (Computer Vision)
-- Built a deep learning model for real-world problem solving  
-- Used CNNs & image processing  
+### 👁️ Face Recognition System
+- Real-time face detection & recognition using OpenCV, Haar Cascades, and KNN
+- Built complete pipeline from data collection to prediction
 
-🔗 [Project Link](PUT_YOUR_PROJECT)
+🔗 https://github.com/Moataz-Elzuhery/PUT_REPO
 
 ---
 
-### 🤖 AI Project
-- Applied Machine Learning / Deep Learning  
-- Focused on practical implementation  
+### 🐱🐶 Cat vs Dog Classifier
+- CNN model using TensorFlow & Keras
+- Achieved **83.4% validation accuracy**
+- Implemented training, validation, and prediction pipeline
 
-🔗 [Project Link](PUT_YOUR_PROJECT)
+🔗 https://github.com/Moataz-Elzuhery/PUT_REPO
+
+---
+
+### 🩺 Diabetes Prediction App
+- Machine Learning model for health prediction
+- Built interactive app using Streamlit
+
+🔗 https://github.com/Moataz-Elzuhery/PUT_REPO
 
 ---
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,mysql,sqlite,linux,git,github,firebase,docker,figma,flutter,arduino"/>
-
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github,linux"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 📌 Mastering **Computer Vision**
-- 📌 Improving **Deep Learning understanding**
-- 📌 Building strong portfolio projects
+- 📌 Advancing in **Computer Vision**
+- 📌 Improving **Deep Learning models**
+- 📌 Building production-ready AI projects
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: moataz.elzuhery@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/moataz-elzuhery-251b8438b 
+- 📧 Email: moataz.elzuhery@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/moataz-elzuhery  
 
 ---
 
 <p align="center">
-🔥 Future AI Engineer in progress
+🚀 Open to opportunities in AI & Machine Learning
 </p>
