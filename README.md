@@ -27,11 +27,11 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
 
 ## 🏗️ Featured Projects
 
-### 👁️ Face Recognition System
+### 👁️ BackEyes (Face Recognition System)
 - Real-time face detection & recognition using OpenCV, Haar Cascades, and KNN
 - Built complete pipeline from data collection to prediction
 
-🔗 https://github.com/Moataz-Elzuhery/PUT_REPO
+🔗 https://github.com/Moataz-Elzuhery/Backeyes
 
 ---
 
@@ -40,17 +40,10 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
 - Achieved **83.4% validation accuracy**
 - Implemented training, validation, and prediction pipeline
 
-🔗 https://github.com/Moataz-Elzuhery/PUT_REPO
+🔗 https://github.com/Moataz-Elzuhery/Cat-and-Dog
 
 ---
 
-### 🩺 Diabetes Prediction App
-- Machine Learning model for health prediction
-- Built interactive app using Streamlit
-
-🔗 https://github.com/Moataz-Elzuhery/PUT_REPO
-
----
 
 ## 📊 GitHub Stats
 
