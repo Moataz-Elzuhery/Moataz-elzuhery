@@ -43,7 +43,7 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
 🔗 https://github.com/Moataz-Elzuhery/Cat-and-Dog
 
 ---
-## 🧠 Tech Stack
+## 📊 GitHub Stats
 
 
 <p align="center">
