@@ -19,7 +19,7 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
 
 ## 🧠 Tech Stack
 
-- **Languages:** Python  
+- **Languages:** Python, C++, SQL
 - **AI/ML:** TensorFlow, OpenCV, scikit-learn  
 - **Tools:** Git, GitHub, Streamlit, Jupyter  
 
