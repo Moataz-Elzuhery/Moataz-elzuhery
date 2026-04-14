@@ -61,9 +61,9 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrwnMoh&show_icons=true&theme=transparent)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrwnMoh&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrwnMoh&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Moataz-elzuhery&show_icons=true&theme=transparent)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Moataz-elzuhery&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-elzuhery&layout=compact&theme=transparent)
 
 ---
 
