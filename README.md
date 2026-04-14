@@ -69,6 +69,7 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moataz-Elzuhery&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elzuhery&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 ## 📫 Contact
