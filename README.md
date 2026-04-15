@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moataz Elzuhery</h1>
-<h3 align="center">Machine Learning Engineer | Computer Vision & Deep Learning</h3>
+<h3 align="center">AI/ML Engineer | Machine Learning & Data Science Specialist</h3>
 
 <p align="center">
 Building real-world AI systems using Computer Vision, Deep Learning, and Machine Learning.
@@ -9,8 +9,8 @@ Building real-world AI systems using Computer Vision, Deep Learning, and Machine
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Graduate
-- 👁️ Specialized in **Computer Vision & Deep Learning**
+- 🎓 Faculty of Computer Information Sciences Graduate
+- 👁️ Specialized in **Machine Learning & Deep Learning**
 - 🧠 Built real-world AI projects (Face Recognition, CNN Classifier, ML Apps)
 - ⚙️ Experienced in **Python, TensorFlow, OpenCV, scikit-learn**
 - 🚀 Focused on building practical AI solutions
